@@ -17,7 +17,9 @@ Develop a decorator pattern approach that will implement the given UML diagram:
 The content of your Cimb.java should ONLY contain the following codes with the **exception** of inserting your own package name :
 
 
+
 public class Cimb {
+	
 	public static void main(String[] args) {
 		
 		SavingsAccount account = new SavingsAccount();
